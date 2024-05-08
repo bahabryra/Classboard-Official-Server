@@ -1,4 +1,4 @@
-# EaglerCraftX Server
+# EaglerraftX Server
 
 ## Credits
 Original Project: Lax1Dude
